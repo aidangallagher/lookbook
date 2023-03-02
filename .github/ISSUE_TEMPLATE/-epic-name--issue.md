@@ -1,7 +1,7 @@
 ---
 name: "[Epic Name] Issue"
 about: Lookbook Shop Mini Build
-title: ''
+title: "[Merchant/Buyer]"
 labels: ''
 assignees: ''
 
